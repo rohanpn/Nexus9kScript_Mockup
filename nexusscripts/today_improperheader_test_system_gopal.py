@@ -1,8 +1,8 @@
 """Script Cataloging Information
 :Product Info:Nexus::9000::9516::NX-OS Release 6.2
-:Category:
+:Category:Config-Mgmt
 :Box Type:Off-Box
-:Title:
+:Title:today_improperheader_test_system_gopal-Arun
 :Short Description:
 :Long Description:
 :Input:
