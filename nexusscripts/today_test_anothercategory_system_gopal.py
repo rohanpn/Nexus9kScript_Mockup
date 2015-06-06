@@ -1,8 +1,8 @@
 """Script Cataloging Information
 :Product Info:Nexus::9000::9516::NX-OS Release 6.2
-:Category:TestNewCategory
+:Category:NewCategory
 :Box Type:On-Box
-:Title:Second time change in title
+:Title:Today Test Script with New Category by Gopal
 :Short Description:This script to monitor System resources and modified.
 :Long Description:This Script to monitor System resources and modified like 
 CPU, Memory, Buffers.
