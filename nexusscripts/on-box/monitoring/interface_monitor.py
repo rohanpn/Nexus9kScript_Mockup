@@ -2,10 +2,10 @@
 :Product Info:Nexus::9000::9516::NX-OS Release 6.2
 :Category:Monitoring
 :Box Type:On-Box
-:Title: Interface Monitoring |||'''';:::;;;12!@%!&#%!*(!#
+:Title: 1#*$#@&$^@(#!$^#@|':"?></.,,,
 :Short Description:This script is to monitor' Interfa'ce counters.
-:Long Description:This script is to monito#%#%)#(%|}r Interfa'ce counters like
-Errors, Drops, Utilization etc. ''''''''''''''';;;;;;;;;;;;''''''''''''''@!$%^!#*^!#&(!$#
+:Long Description:This scripsdas@$$@$@#!$'';:::<>?.,,./||\t is to monito#%#%)#(%|}r Interfa'ce counters like
+Errors, Drops, Utilization etc. 
 :Input:command to check the in$terface status
      e.g show int erface ethernet 1/1
 :Output:Details of Drops,Error%and Utilization for all the interfaces
