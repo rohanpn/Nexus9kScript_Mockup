@@ -5,8 +5,8 @@
 :Title: interface monitoring modified's ' 
 :Short Description:This scr ipt's is to monitor' Interfa'ce counters.
 :Long Description:This scrip'sdas@$$@$@#!$'';:::<>?.,,./||\t is to monito#%#%)#(%|}r Interfa'ce counters like
-Errors, Drops, Utilization etc. 
-:Input:command to check the in$terface status
+Errors, Drops, Utilization etc's. 
+:Input:command to check the in$terface status's
      e.g show int erface ethernet 1/1
 :Output:Details of Drops,Error%and Utilization's for all the interfaces
 """
