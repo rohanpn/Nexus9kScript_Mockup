@@ -5,7 +5,7 @@
 :Title: Interface Monitoring d d'da'd'f as vfdgbdfg  sdfsfsfsgsg'gfdgdgdfg
 :Short Description:This script is to monitor Interfa'ce counters.
 :Long Description:This script is to monitor Interfa'ce counters like
-Errors, Drops, Utilization etc.
+Errors, Drops, Utilization etc. ''''''''''''''';;;;;;;;;;;;''''''''''''''@!$%^!#*^!#&(!$#
 :Input:command to check the in$terface status
      e.g show int erface ethernet 1/1
 :Output:Details of Drops,Error%and Utilization for all the interfaces
