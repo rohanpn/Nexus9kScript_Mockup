@@ -8,7 +8,7 @@
 Errors, Drops, Utilization etc.
 :Input:command to check the in$terface status
      e.g show int erface ethernet 1/1
-:Output:Details of Drops,Error% and Utilization for all the interfaces
+:Output:Details of Drops,Error%and Utilization for all the interfaces
 """
 
 import os,sys
