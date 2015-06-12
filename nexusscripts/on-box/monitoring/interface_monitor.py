@@ -3,7 +3,7 @@
 :Category:Monitoring
 :Box Type:On-Box
 :Title: Interface Monitoring d d'da'd'f as vfdgbdfg  sdfsfsfsgsg'gfdgdgdfg
-:Short Description:This script is to monitor Interfa'ce counters.
+:Short Description:This script is to monitor#%#%)#(%|}' Interfa'ce counters.
 :Long Description:This script is to monitor Interfa'ce counters like
 Errors, Drops, Utilization etc. ''''''''''''''';;;;;;;;;;;;''''''''''''''@!$%^!#*^!#&(!$#
 :Input:command to check the in$terface status
