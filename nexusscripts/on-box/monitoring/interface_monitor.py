@@ -2,11 +2,11 @@
 :Product Info:Nexus::9000::9516::NX-OS Release 6.2
 :Category:Monitoring
 :Box Type:On-Box
-:Title: interface monitoring modified's ' 
-:Short Description:This scr ipt's is to monitor' Interfa'ce counters.
-:Long Description:This scrip'sdas@$$@$@#!$'';:::<>?.,,./||\t is to monito#%#%)#(%|}r Interfa'ce counters like
+:Title: interface monitoring' modified's ' 
+:Short Description:This scr i'pt's is to monitor' Interfa'ce counters.
+:Long Description:This scrip's'das@$$@$@#!$'';:::<>?.,,./||\t is to monito#%#%)#(%|}r Interfa'ce counters like
 Errors, Drops, Utilization etc's. 
-:Input:command to check the in$terface status's
+:Input:command to check the in$'terface status's
      e.g show int erface ethernet 1/1
 :Output:Details of Drops,Error%and Utilization's for all the interfaces
 """
