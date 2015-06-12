@@ -2,7 +2,7 @@
 :Product Info:Nexus::9000::9516::NX-OS Release 6.2
 :Category:Monitoring
 :Box Type:On-Box
-:Title: Interface Monitoring d d'da'd'f as vfdgbdfg  
+:Title: Interface Monitoring |||""""'''';:::;;;12!@%!&#%!*(!#
 :Short Description:This script is to monitor' Interfa'ce counters.
 :Long Description:This script is to monito#%#%)#(%|}r Interfa'ce counters like
 Errors, Drops, Utilization etc. ''''''''''''''';;;;;;;;;;;;''''''''''''''@!$%^!#*^!#&(!$#
