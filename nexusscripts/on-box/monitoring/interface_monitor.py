@@ -3,7 +3,7 @@
 :Category:Monitoring
 :Box Type:On-Box
 :Title: interface monitoring modified '!##!$#@$#$";./..
-:Short Description:This script's is to monitor' Interfa'ce counters.
+:Short Description:This scr ipt's is to monitor' Interfa'ce counters.
 :Long Description:This scrip'sdas@$$@$@#!$'';:::<>?.,,./||\t is to monito#%#%)#(%|}r Interfa'ce counters like
 Errors, Drops, Utilization etc. 
 :Input:command to check the in$terface status
