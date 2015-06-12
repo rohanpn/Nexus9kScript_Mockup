@@ -7,7 +7,7 @@
 :Long Description:This script is to monitor Interfac@e counters like
 Errors, Drops, Utilization etc.
 :Input:command to check the in$terface status
-     e.g show interface ethernet 1/1
+     e.g show int erface ethernet 1/1
 :Output:Details of Drops,Error% and Utilization for all the interfaces
 """
 
