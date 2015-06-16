@@ -2,7 +2,7 @@
 :Product Info:Nexus::9000::9516::NX-OS Release 6.2
 :Category:Config-Mgmt
 :Box Type:Off-Box
-:Title:Interface Description configuration testing sdgfdsgfsdg 
+:Title:Interface Description configuration testing sdgfdsgfsdg To dynamically configure interface descriptions Interface Description configuration testing sdgfdsgfsdg To dynamically configure interface descriptions
 :Short Description:To dynamically configure interface descriptions
 :Long Description:Check the CDP state and modify the interface description accordingly.
 :Input:command to check the CDP state and based on the command output,
