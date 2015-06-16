@@ -2,7 +2,7 @@
 :Product Info:Nexus::9000::9516::NX-OS Release 6.2
 :Category:Monitoring
 :Box Type:On-Box
-:Title: interface monitoring' modified's fsdafsdf interface monitoring' modified's fsdafsdf interface monitoring' modified's fsdafsdf interface monitoring' modified's fsdafsdf
+:Title: interface monitoring' modified's 
 :Short Description:This scr i'pt's is to monitor' Interfa'ce counters. s
 :Long Description:This scrip's'das@$$@$@#!$'';/||\t is to monito#%#%)#(%|}r Interfa'ce counters like
 Errors, Drops, Utilization etc's. 
