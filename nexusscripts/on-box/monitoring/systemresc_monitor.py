@@ -2,7 +2,7 @@
 :Product Info:Nexus::9000::9516::NX-OS Release 6.2
 :Category:Monitoring
 :Box Type:On-Box
-:Title:System Resources Monitoring
+:Title:System Resources Monitoring hgfhfhg
 :Short Description:This script is to monitor system-level resources.
 :Long Description:This script is to monitor system-level resources
 like cpu utilization, memory usage etc
