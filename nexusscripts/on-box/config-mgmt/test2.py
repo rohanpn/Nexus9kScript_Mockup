@@ -2,8 +2,8 @@
 :Product Info:Nexus::9000::9516::NX-OS Release 6.2
 :Category:Config-Mgmt
 :Box Type:On-Box
-:Title:  test2 Check Check  
-:Short Description:To dynamically configure FEXCed,install the FEX. Check the FEX state.If not installed,install the FEX.Check the FEX state.If not installed,install the FEX.Check the FEX state.If not installed,install the FEX.Check the FEX state.If not installed,install the FEX.Check the FEX state.If not installed,install the FEX.Check the FEX state.If not installed,install the FEX.Check the FEX state.If not installed,install the FEX.Check the FEX state.If not installed,install the FEX.Check the FEX state.If not installed,install the FEX.Check the FEX state.If not installed,install the FEX.Check the FEX state.If not installed,install the FEX.Check the FEX state.If not installed,install the FEX.Check the FEX state.If not installed,install the FEX.
+:Title:  test2 Check Check  y configure FEXCed,install the FEX. Check the FEX state.If not installed,install the FEX.Check the FEX state.If not installed,install the FEX.Check the FEX state.If not installed,install the FEX.Check the FEX state.If not installed,install the FEX.Check the FEX state.If not installed,inst
+:Short Description:To dynamicallall the FEX.
 :Long Description:Check the FEX state.If not installed,install the FEX.
 If not enabled ,enable the FEX.
 :Input:command to check the FEX installation and based on the command output,
