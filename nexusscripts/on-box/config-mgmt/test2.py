@@ -2,7 +2,7 @@
 :Product Info:Nexus::9000::9516::NX-OS Release 6.2
 :Category:Config-Mgmt
 :Box Type:On-Box
-:Title:  test2 Check the FEX state. command to check the FEX installation and based on the command output command to check the FEX installation and based on the command output command to check the FEX installation and based on the command output command to check the FEX installation and based on the command outputcommand to check the FEX installation and based on the command outputcommand to check the FEX installation and based on the command outputcommand to check the FEX installation and based on the command outputcommand to check the FEX installation and based on the command output
+:Title:  test2 Check the FEX state. command to check the FEX installation and based onvvvgj the command output command to check the FEX installation and based on the command output command to check the FEX installation and based on the command output command to check the FEX installation and based on the command outputcommand to check the FEX installation and based on the command outputcommand to check the FEX installation and based on the command outputcommand to check the FEX installation and based on the command outputcommand to check the FEX installation and based on the command output
 :Short Description:To dynamically configure FEX
 :Long Description:Check the FEX state.If not installed,install the FEX.
 If not enabled ,enable the FEX.
