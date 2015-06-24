@@ -2,7 +2,7 @@
 :Product Info:Nexus::9000::9516::NX-OS Release 6.2
 :Category:Config-Mgmt
 :Box Type:On-Box
-:Title: test2 o dynamically co
+:Title: test2 o dynamically coScript Cataloging Information Script Cataloging Information Script Cataloging Information Script Cataloging Information Script Cataloging Information Script Cataloging Information Script Cataloging Information Script Cataloging Information Script Cataloging Information Script Cataloging Information 
 :Short Description:To dynamically configure FEX
 :Long Description:Check the FEX state.If not installed,install the FEX.
 If not enabled ,enable the FEX.
