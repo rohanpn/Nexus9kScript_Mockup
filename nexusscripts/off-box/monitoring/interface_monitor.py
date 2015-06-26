@@ -2,7 +2,7 @@
 :Product Info:Nexus::9000::9516::NX-OS Release 6.2
 :Category:Monitoring
 :Box Type:Off-Box
-:Title:Interface Monitoring :This script is to monitor Interface count
+:Title:Interface Monitoring :This script is to monitor Interface count This script is to monitor Interface count This script is to monitor Interface count This script is to monitor Interface count This script is to monitor Interface count This script is to monitor Interface count This script is to monitor Interface count This script is to monitor Interface count This script is to monitor Interface count This script is to monitor Interface count This script is to monitor Interface count 
 :Short Description:This script is to monitor Interface counters.
 :Long Description:This script is to monitor Interface counters like
 Errors etc.
